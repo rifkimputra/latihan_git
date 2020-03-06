@@ -1,3 +1,3 @@
 print('sesuatu')
-print('kucing meong')
-print('kucing oren')
+for i in range(1,3):
+    i + 1
