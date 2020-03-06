@@ -1,0 +1,1 @@
+print('kucing lain')
